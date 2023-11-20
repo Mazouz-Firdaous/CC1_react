@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CC1_react/static/css/main.13ecbd75.css",
+    "main.js": "/CC1_react/static/js/main.35313018.js",
+    "static/js/787.c59dfe48.chunk.js": "/CC1_react/static/js/787.c59dfe48.chunk.js",
+    "static/media/i2.PNG": "/CC1_react/static/media/i2.1a82ca1c5da6aa029330.PNG",
+    "static/media/i4.PNG": "/CC1_react/static/media/i4.8ad0deba4522ae99230a.PNG",
+    "static/media/i5.PNG": "/CC1_react/static/media/i5.71a818d1279438a2a8b2.PNG",
+    "static/media/i3.PNG": "/CC1_react/static/media/i3.cdc65a58528095ad8337.PNG",
+    "static/media/i1.PNG": "/CC1_react/static/media/i1.029041084a8cf7faf869.PNG",
+    "static/media/unitedflag.svg": "/CC1_react/static/media/unitedflag.70e4e37f995bf1f7df6ae8200a59df29.svg",
+    "index.html": "/CC1_react/index.html",
+    "static/media/italyflag.svg": "/CC1_react/static/media/italyflag.2b31e5a9b8b01c282c2bd29d19aeb338.svg",
+    "static/media/franceflag.svg": "/CC1_react/static/media/franceflag.0a00ceb764011f446bf5759f80f4ebd2.svg",
+    "main.13ecbd75.css.map": "/CC1_react/static/css/main.13ecbd75.css.map",
+    "main.35313018.js.map": "/CC1_react/static/js/main.35313018.js.map",
+    "787.c59dfe48.chunk.js.map": "/CC1_react/static/js/787.c59dfe48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13ecbd75.css",
+    "static/js/main.35313018.js"
+  ]
+}
