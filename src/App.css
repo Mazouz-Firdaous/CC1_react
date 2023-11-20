@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -35,4 +36,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+body.b-dark {
+  background-color: #212529; /* ou toute autre couleur sombre que vous préférez */
+  color: #fff; /* ou toute autre couleur de texte pour le mode sombre */
 }

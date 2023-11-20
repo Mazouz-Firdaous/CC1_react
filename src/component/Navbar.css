@@ -1,0 +1,15 @@
+.L:hover{
+    border-radius: 10px;
+    padding: 10px;
+    background: #d0d9e1;
+    box-shadow:  20px 20px 60px #b1b8bf,
+                 -20px -20px 60px #effaff;
+    font-size: large;
+    
+}
+.dark {
+    color: white;
+}
+.light {
+    color: dark;
+}

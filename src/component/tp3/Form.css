@@ -1,0 +1,12 @@
+.m-auto{
+    
+    
+    border-radius: 20px;
+    background: linear-gradient(145deg, #c7c9df, #ecefff);
+box-shadow:  20px 20px 24px #c7c9df,
+             -20px -20px 24px #f3f5ff;
+  }
+  .m-auto:hover{
+     
+    background: radial-gradient(circle at 100% 107%, #d6afc5 0%, #9cb8ec 30%, #a8ece7 60%, #8bb4ce 100%);
+  }
